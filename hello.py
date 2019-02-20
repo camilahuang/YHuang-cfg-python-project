@@ -14,3 +14,5 @@ print(description)
 
 exmp="The quick brown fox jumps over the lazy dog."
 print(exmp.lower().count('the'))
+
+print("This is qian, wei.")
